@@ -1,5 +1,5 @@
 # aws-es-tf
-Create a small ElasticSearch cluster with Terraform of AWS
+Create a small ElasticSearch(ELK) cluster with Terraform on AWS
 
 # Requirements
 -	Your ElasticSearch cluster will have :
